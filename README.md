@@ -10,13 +10,13 @@
 
 LINKS ÚTEIS:
 
-- ![Alexa Developer Console](https://developer.amazon.com/en-US/alexa)
+- [Alexa Developer Console](https://developer.amazon.com/en-US/alexa)
 
-- ![Documentação SSML](https://cloud.google.com/text-to-speech/docs/ssml?hl=pt-br)
+- [Documentação SSML](https://cloud.google.com/text-to-speech/docs/ssml?hl=pt-br)
 
-- ![Console AWS](https://aws.amazon.com)
+- [Console AWS](https://aws.amazon.com)
 
-- ![Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/)
 
-- ![ASK Cli documentação](https://developer.amazon.com/en-US/docs/alexa/smapi/ask-cli-command-reference.html)
+- [ASK Cli documentação](https://developer.amazon.com/en-US/docs/alexa/smapi/ask-cli-command-reference.html)
 
